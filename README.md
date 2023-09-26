@@ -1,8 +1,8 @@
-# Data Science Portfolio - Arch Desai
+# Data Science Portfolio - 
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
-- **Email**: [archdesai.ad@gmail.com](archdesai.ad@gmail.com)
-- **LinkedIn**: [linkedin.com/archd3sai](https://www.linkedin.com/in/archd3sai/)
+- **Email**: [sina.na@gmail.com](sina.na@gmail.com)
+- **LinkedIn**: [linkedin.com/Sina Nazeri](https://www.linkedin.com/in/sina-nazeri)
 
 ## Achievements
 - Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
